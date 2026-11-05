@@ -1,6 +1,6 @@
-# Project Title
+# SmartBazaar — Supermarket Automation System
 
-Supermarket Automation Software
+**A web-based system that automates a supermarket's daily operations — inventory, billing and sales reporting.** I was a core contributor to this project: I built the core application features and produced the full software-engineering design artifacts (SRS, DFDs, use cases and class diagrams). My detailed work is listed in "My Work on This Project" below.
 
 ## Description
 
