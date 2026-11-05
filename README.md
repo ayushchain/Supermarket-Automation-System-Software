@@ -43,11 +43,11 @@ In case the data.json file crashes during file modification, there is a backup.j
 
 ```
 
-## Authors
+## Contributors
 
-Contributors names and contact info
-
-- Adarsh Srivastava  
+- Ayush Raj
+- [ayushchain](https://www.github.com/ayushchain)
+- Adarsh Srivastava
 - [adarsh-2011](https://www.github.com/adarsh-2011)
 
 ## Version History
