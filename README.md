@@ -64,3 +64,7 @@ I was a core contributor to SmartBazaar and worked on both the application featu
     * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
+
+## Contact
+
+For any query please feel free to reach out to me at [ayush08nitp@gmail.com](mailto:ayush08nitp@gmail.com)
