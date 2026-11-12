@@ -49,6 +49,7 @@ I was a core contributor to SmartBazaar and worked on both the application featu
 
 - **Features:** built the core supermarket workflows — maintaining and updating inventory, creating and printing sales bills, and displaying and printing sales statistics for any period.
 - **Design:** produced the software-engineering artifacts behind the system — the Software Requirements Specification (SRS), data-flow diagrams (DFDs), use cases, and class diagrams — for a scalable, maintainable architecture.
+**Reach:** The system reached 300+ users within 3 months.
 
 ## Contributors
 
